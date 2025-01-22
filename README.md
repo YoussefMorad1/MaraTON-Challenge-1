@@ -59,13 +59,13 @@
 
 ### **Mid-Contest Improvements**
 
-- **Minimizing Library Size**:
+- **Using MINIZ library**:
 
   - Initially used **[miniz-cpp](https://github.com/tfussell/miniz-cpp)**, but its size exceeded the 65KB submission limit.
   - Refined and minified the library, reducing it from 250KB to 65KB—an almost impossible feat!
   - Eventually submitted a solution that improved my rank from **64th to 52nd**.
 
-- **Switch to [TinyLZMA](https://github.com/WangXuan95/TinyLZMA)**:
+- **Switch to LZMA**:
 
   - Found **[TinyLZMA](https://github.com/WangXuan95/TinyLZMA)**, which significantly boosted my rank to **23rd** after fine-tuning.
   - With further fine-tuning, I managed to reach the **20th rank**!
@@ -90,7 +90,7 @@
 ### **Final Rank**
 
 - Maintained a position in the **top 20** until the last day, finishing in **22nd place** after the final tests.
-- The downfall was very fast, and I even suspected cheating at one point, and wrote this [blog](https://codeforces.com/blog/entry/138397), and I want to thank the judges for taking my concerns into consideration, investigating the matter, and clarifying it..
+- The downfall was very fast, and I even suspected cheating at one point, and wrote this [blog](https://codeforces.com/blog/entry/138397), and I want to thank the judges for considering my concerns, investigating the matter, and clarifying it.
 
 ---
 
