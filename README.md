@@ -1,7 +1,19 @@
 # MaraTon Challenge 1
+
 ## Summary
 * The contest aimed to find an efficient way to losslessly compress TON's Bag of Cells (BoC) within a strict time limit of 2 seconds per test case.
 * I secured **22nd** place in the contest, consistently holding around the **15th** rank for much of the competition despite a tight schedule during my **_college finals_**.
+
+---
+
+## **Index**
+* [Summary](#summary)
+* [My Final Approach](#my-final-approach)  
+* [The Journey](#the-journey)  
+* [Failed Trials](#failed-trials)  
+* [Unimplemented Ideas (No Time)](#unimplemented-ideas-no-time)  
+* [Advice to me for Future Compression Challenges](#advice-to-me-for-future-compression-challenges-learned-the-hard-way)  
+* [Contest Links](#contest-links)  
 
 ---
 
